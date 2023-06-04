@@ -5,7 +5,7 @@
 
 <h1 align="center">Acknowledgements</h1>
 
- - [Live Project Link](https://frolicking-torrone-694d2a.netlify.app/](https://gopichandra-dev.github.io/index2.html/)
+ - [Live Project Link](https://gopichandra-dev.github.io/index2.html)
 ## Authors
 
 - [@ShivamUpadhyay]
